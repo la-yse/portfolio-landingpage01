@@ -1,6 +1,6 @@
 # 🏛️ Boldline & Co - Architecture Office
 
-A sleek and responsive institutional website for **Boldline & Co.** architecture office. This is a study case. 
+A sleek and responsive institutional website for **Boldline & Co.** architecture office. This is a study case made for practicing and portfolio. 
 
 ## 🌟 Features
 
