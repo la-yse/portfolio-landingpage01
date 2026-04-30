@@ -28,6 +28,6 @@ See the LICENSE.md file for more details.
 
 ## 🙋‍♀️ Author
 
-Made with 🩷 by Layse
+Developed by Layse
 📧 Contact: layse.dev@gmail.com
 
